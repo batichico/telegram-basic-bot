@@ -1,2 +1,2 @@
-# telegram-basic-bot
-This  proyect is created for create basic structure for deploy basic bot
+# This bot will cointains the basic code, folders, libreries and clean structure to start to create bot in Telegram
+
