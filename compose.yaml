@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    user: "1001:1003"
+    tty: true
+    volumes: 
+     - ./:/usr/src/app
