@@ -4,8 +4,8 @@ def listener(messages):
     for m in messages:
         userName = m.from_user.first_name
         userId = m.from_user.id
-        logMessage = userName + " " + str(userId) + " said: "  + m.text
-        print(logMessage)
-
+        # logMessage = userName + " " + str(userId) + " said: "  + m.text
+        # print(logMessage)
+        print("MESSAGE")
 
 bot.set_update_listener(listener)

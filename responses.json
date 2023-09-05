@@ -9,6 +9,11 @@
     "en": "Bye [{}](tg://user?id={})!",
     "eus": "Agur [{}](tg://user?id={})!"
   },
+  "group_generic_welcome":{
+    "es": "Hola @usuario, gracias por meterme en el grupo @grupo , soy un bot creado por @batichico, espero ser útil y disfrutéis de mi compañia :D",
+    "en": "Hi @user, thanks for putting me in the group @grupo , I'm a bot created by @batichico, I hope to be useful and enjoy my company :D",
+    "eus": "Kaixo @user, eskerrik asko @grupo taldean sartzeagatik, @bachico-k sortutako bot bat naiz, zuetzat erabilgarria izatea eta nire konpainiaz gozatzea espero dut :D"
+  },
   "lang":{
     "es": "Tu idioma actual es: *Español*\n\nUtiliza los botones de abajo para cambiar el idioma del bot",
     "en": "Your current language is: *English*\n\nUse the buttons from below to change the bot language",
@@ -20,15 +25,6 @@
     "eus": "Hizkuntza aldatuta: *Euskera*\n\nErabili azpiko botoiak hizkuntza aldatzeko"
   },
   "not_user": "You are not registered, use /start",
-  "chests":{
-    "es": "!cofres",
-    "en": "!chests",
-    "en": "!kutxak"
-  },
-  "m_chests":{
-    "es": "Súper mágico: 30\nMágico: 3",
-    "en": "Super magic: 30\nMagic: 3"
-  },
   "registration":{
     "es": "/registro",
     "en": "/registration",
@@ -48,31 +44,6 @@
     "es":"Registro",
     "en":"Registration",
     "eus":"Erregistroa"
-  },
-  "clanwar":{
-    "es":"!guerraclan",
-    "en": "!clanwar",
-    "eus": "!clangerra"
-  },
-  "m_clanwar":{
-    "es":"La guerra ha empezado",
-    "en":"The war is started",
-    "eus":"Gerra hasi da"
-  },
-  "war":{
-    "es":"!guerra",
-    "en":"!war",
-    "eus":"!gerra"
-  },
-  "m_war":{
-    "es":"Datos guerra:",
-    "en":"War stats:",
-    "eus":"Gerra datuak:"
-  },
-  "recolection":{
-    "es":"!recoleccion",
-    "en":"!recolection",
-    "eus":"!bilketa"
   },
   "m_recolection":{
     "es":"Datos recolección:",
@@ -119,56 +90,6 @@
     "en":"Canceled, if you want to regist, use /registration",
     "eus":"Desonartuta, erregistratu nahi baduzu, erabili /registroa"
   },
-  "name_silver_chest":{
-    "es":"Plata",
-    "en":"Silver",
-    "eus":"Zilarra"
-  },
-  "name_gold_chest":{
-    "es":"Oro",
-    "en":"Gold",
-    "eus":"Urrea"
-  },
-  "name_giant_chest":{
-    "es":"Gigante",
-    "en":"Giant",
-    "eus":"Erraldoia"
-  },
-  "name_magical_chest":{
-    "es":"Mágico",
-    "en":"Magical",
-    "eus":"Magikoa"
-  },
-  "name_epic_chest":{
-    "es":"Épico",
-    "en":"Epic",
-    "eus":"Epikoa"
-  },
-  "name_mega_lightning_chest":{
-    "es":"Mega Rayo",
-    "en":"Mega Lighting",
-    "eus":"Mega Argiztapena"
-  },
-  "name_legendary_chest":{
-    "es":"Legendario",
-    "en":"Legendary",
-    "eus":"Legendarioa"
-  },
-  "name_chets":{
-    "es":"*Cofres*",
-    "en":"*Chests*",
-    "eus":"*Kutxak*"
-  },
-  "name_upcoming_chets":{
-    "es":"*Próximos cofres*",
-    "en":"*Upcoming chests*",
-    "eus":"*Hurrengo Kutxak*"
-  },
-  "name_good_chets":{
-    "es":"*Cofres rocosos*",
-    "en":"*Good chests*",
-    "eus":"*Kutxa onak*"
-  },
   "a_not_registered":{
     "es":"No estas registrado amig@\nUtiliza el comando /registro para registrarte",
     "en":"Not registered\nUse /registration to register",
@@ -194,30 +115,10 @@
     "en": "INFO",
     "eus": "INFO"
   },
-  "menu_player_name_chests":{
-    "es": "COFRES",
-    "en": "CHESTS",
-    "eus": "KUTXAK"
-  },
-  "menu_player_name_war_level":{
-    "es": "NIVEL GUERRA",
-    "en": "WAR LEVEL",
-    "eus": "GERRA MAILA"
-  },
   "menu_player_name_games_history":{
     "es": "HISTORIAL DE PARTIDAS",
     "en": "GAMES HISTORY",
     "eus": "PARTIDA HISTORIALA"
-  },
-  "menu_player_name_clan":{
-    "es": "CLAN",
-    "en": "CLAN",
-    "eus": "KLANA"
-  },
-  "menu_player_name_decks":{
-    "es": "MAZOS",
-    "en": "DECKS",
-    "eus": "MAZOAK"
   },
   "menu_player_name_return":{
     "es": "VOLVER",
