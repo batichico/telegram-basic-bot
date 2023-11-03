@@ -9,6 +9,21 @@
     "en": "Bye [{}](tg://user?id={})!",
     "eus": "Agur [{}](tg://user?id={})!"
   },
+  "lang_es_buttons":{
+    "es": "Español",
+    "en": "Inglés",
+    "eus": "Euskera"
+  },
+  "lang_en_buttons":{
+    "es": "Spanish",
+    "en": "English",
+    "eus": "Vasque"
+  },
+  "lang_eus_buttons":{
+    "es": "Gaztelera",
+    "en": "Ingelesa",
+    "eus": "Euskera"
+  },
   "group_generic_welcome":{
     "es": "Hola @usuario, gracias por meterme en el grupo @grupo , soy un bot creado por @batichico, espero ser útil y disfrutéis de mi compañia :D",
     "en": "Hi @user, thanks for putting me in the group @grupo , I'm a bot created by @batichico, I hope to be useful and enjoy my company :D",
