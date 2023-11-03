@@ -3,5 +3,6 @@ services:
     build: .
     user: "1001:1003"
     tty: true
+    restart: unless-stopped
     volumes: 
      - ./:/usr/src/app
