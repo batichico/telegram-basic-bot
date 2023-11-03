@@ -6,12 +6,7 @@ import json
 from os import environ
 import os, sys
 
-from datetime import datetime, date, time,timedelta
-# import pymysql
-# import requests
-# import urllib
-
-# import subprocess
+from datetime import datetime, date, time, timedelta
 
 
 with open('extra_data/extra.json') as f:
